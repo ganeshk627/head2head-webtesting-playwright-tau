@@ -2,6 +2,7 @@
 
 # To install requirements
 npm install playwright@latest
+
 npm init playwright@latest
 
 # select options to create project
