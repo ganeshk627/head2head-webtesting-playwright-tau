@@ -5,7 +5,7 @@ npm install playwright@latest
 
 npm init playwright@latest
 
-# select options to create project
+(select options to create project)
 
 # To run tests
 npx playwright test
